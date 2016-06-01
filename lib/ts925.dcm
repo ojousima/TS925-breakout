@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TS925
+D Single supply opamp 5V with virtual ground and shutdown
+K single supply opamp
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/e4/32/7d/7f/c8/2e/4e/da/CD00001115.pdf/files/CD00001115.pdf/jcr:content/translations/en.CD00001115.pdf
+$ENDCMP
+#
+#End Doc Library
